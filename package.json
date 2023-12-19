@@ -1,0 +1,22 @@
+{
+  "name": "match-override-signatures",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ts-mocha test/**/*.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.10.5",
+    "@typescript-eslint/parser": "^6.15.0",
+    "@typescript-eslint/rule-tester": "^6.15.0",
+    "@typescript-eslint/utils": "^6.15.0",
+    "mocha": "^10.2.0",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^5.3.3"
+  }
+}
